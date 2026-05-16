@@ -37,74 +37,105 @@ Diploma in Computer Science — Dhaka Polytechnic Institute
 
 ## 📂 Featured Repositories (SEO Optimized by Tech Stack)
 
-### 🏆 Java Spring Boot / Backend APIs (31 repos)
-| Repository | Description |
-|-----------|-------------|
-| [bd-crm](https://github.com/mhcybroot/bd-crm) | Bangladesh CRM System |
-| [DPI-All-Batch-Community-Platform](https://github.com/mhcybroot/DPI-All-Batch-Community-Platform-full-stack) | Full-Stack Community Platform |
-| [SecureFileSharingService](https://github.com/mhcybroot/SecureFileSharingService) | Secure File Sharing API |
-| [RestrictedFileSharingSystem](https://github.com/mhcybroot/RestrictedFileSharingSystem) | Restricted Access File System |
-| [HospitalManagementRestAPI](https://github.com/mhcybroot/HospitalManagementRestAPI) | Hospital Management REST API |
-| [Personal-Finance-Tracker-API](https://github.com/mhcybroot/Personal-Finance-Tracker-API) | Finance Tracker API |
-| [WeatherInformationService](https://github.com/mhcybroot/WeatherInformationService) | Weather API Service |
-| [URLShortenerApi](https://github.com/mhcybroot/URLShortenerApi) | URL Shortener Microservice |
-| [SecureLibraryManagementSystemAPI](https://github.com/mhcybroot/SecureLibraryManagementSystemAPI) | Library Management System |
-| [ProductInventorySystemComprehensiveTestingSuite](https://github.com/mhcybroot/ProductInventorySystemComprehensiveTestingSuite) | Inventory System with Testing |
 
-### 📱 Kotlin Android / Mobile Development (12 repos)
-| Repository | Description |
-|-----------|-------------|
-| [SmartAI](https://github.com/mhcybroot/SmartAI) | AI-Powered Android Application |
-| [Polytechnic-Exam-Management](https://github.com/mhcybroot/Polytechnic-Exam-Management) | Exam Management System |
-| [trading](https://github.com/mhcybroot/trading) | Trading Platform Mobile App |
-| [CACHCO](https://github.com/mhcybroot/CACHCO) | Android Application |
-| [communityAntiCorruptionHub](https://github.com/mhcybroot/communityAntiCorruptionHub) | Community Platform |
-| [studician-android-client](https://github.com/mhcybroot/studician-android-client) | Studician Android Client |
+### Java Spring Boot / Backend APIs (31 repos)
+- [bd-crm](https://github.com/mhcybroot/bd-crm)
+- [DPI-All-Batch-Community-Platform-full-stack-main](https://github.com/mhcybroot/DPI-All-Batch-Community-Platform-full-stack-main)
+- [github-repo-reader](https://github.com/mhcybroot/github-repo-reader)
+- [DPI-All-Batch-Community-Platform-full-stack](https://github.com/mhcybroot/DPI-All-Batch-Community-Platform-full-stack)
+- [DPI-All-Batch-Community-Platform-Backend](https://github.com/mhcybroot/DPI-All-Batch-Community-Platform-Backend)
+- [RestrictedFileSharingSystem](https://github.com/mhcybroot/RestrictedFileSharingSystem)
+- [SecureFileSharingService](https://github.com/mhcybroot/SecureFileSharingService)
+- [WeatherInformationService](https://github.com/mhcybroot/WeatherInformationService)
+- [URLShortenerApi](https://github.com/mhcybroot/URLShortenerApi)
+- [SimpAPIwithEnviProfl](https://github.com/mhcybroot/SimpAPIwithEnviProfl)
+- [CustomAuthenticationOstad](https://github.com/mhcybroot/CustomAuthenticationOstad)
+- [CustomAuthentication](https://github.com/mhcybroot/CustomAuthentication)
+- [ProductInventorySystemComprehensiveTestingSuite](https://github.com/mhcybroot/ProductInventorySystemComprehensiveTestingSuite)
+- [SecureLibraryManagementSystemAPI](https://github.com/mhcybroot/SecureLibraryManagementSystemAPI)
+- [SimpleProductInventoryAPI](https://github.com/mhcybroot/SimpleProductInventoryAPI)
+- [ContactManagerAPI](https://github.com/mhcybroot/ContactManagerAPI)
+- [TakaPay](https://github.com/mhcybroot/TakaPay)
+- [yesnetmassage](https://github.com/mhcybroot/yesnetmassage)
+- [BookLibraryManagement](https://github.com/mhcybroot/BookLibraryManagement)
+- [StudentDatabaseAPI](https://github.com/mhcybroot/StudentDatabaseAPI)
+- ... and 11 more
 
-### 🌐 TypeScript / NestJS / Full-Stack (4 repos)
-| Repository | Description |
-|-----------|-------------|
-| [Finara-Property-Solutions-LLC](https://github.com/mhcybroot/Finara-Property-Solutions-LLC) | Property Management Platform |
-| [nest_with_mongo_db](https://github.com/mhcybroot/nest_with_mongo_db) | NestJS MongoDB Integration |
-| [NestJs-Day-One](https://github.com/mhcybroot/NestJs-Day-One) | NestJS Learning Project |
-| [astro-sanity-starter](https://github.com/mhcybroot/astro-sanity-starter) | Astro + Sanity Starter |
+### Kotlin Android / Mobile Development (12 repos)
+- [SmartAI](https://github.com/mhcybroot/SmartAI)
+- [Polytechnic-Exam-Management](https://github.com/mhcybroot/Polytechnic-Exam-Management)
+- [trading](https://github.com/mhcybroot/trading)
+- [CACHCO](https://github.com/mhcybroot/CACHCO)
+- [communityAntiCorruptionHub](https://github.com/mhcybroot/communityAntiCorruptionHub)
+- [Practice-Kotlin](https://github.com/mhcybroot/Practice-Kotlin)
+- [dpi_mt](https://github.com/mhcybroot/dpi_mt)
+- [DPI-ENV](https://github.com/mhcybroot/DPI-ENV)
+- [dpi_cst](https://github.com/mhcybroot/dpi_cst)
+- [DPI-FT](https://github.com/mhcybroot/DPI-FT)
+- [DPI_CHT](https://github.com/mhcybroot/DPI_CHT)
+- [FuturePlaning](https://github.com/mhcybroot/FuturePlaning)
 
-### 📲 Dart / Flutter Mobile Apps (7 repos)
-| Repository | Description |
-|-----------|-------------|
-| [doller-platform](https://github.com/mhcybroot/doller-platform) | Financial Platform |
-| [GroupChatApp](https://github.com/mhcybroot/GroupChatApp) | Group Chat with Firebase |
-| [Attendance-app](https://github.com/mhcybroot/Attendance-app) | Face Recognition Attendance |
-| [student_management_system_assignment](https://github.com/mhcybroot/student_management_system_assignment) | Student Management |
+### TypeScript / NestJS / Full-Stack (4 repos)
+- [Finara-Property-Solutions-LLC](https://github.com/mhcybroot/Finara-Property-Solutions-LLC)
+- [nest_with_mongo_db](https://github.com/mhcybroot/nest_with_mongo_db)
+- [NestJs-Day-One](https://github.com/mhcybroot/NestJs-Day-One)
+- [astro-sanity-starter](https://github.com/mhcybroot/astro-sanity-starter)
 
-### 🕸️ JavaScript / Web Development (7 repos)
-| Repository | Description |
-|-----------|-------------|
-| [quickbooks](https://github.com/mhcybroot/quickbooks) | QuickBooks Integration |
-| [Homesync](https://github.com/mhcybroot/Homesync) | Smart Home Synchronization |
-| [class-room](https://github.com/mhcybroot/class-room) | Classroom Management |
-| [todo-react-copy](https://github.com/mhcybroot/todo-react-copy) | React Todo App |
+### Dart / Flutter Mobile Apps (7 repos)
+- [doller-platform](https://github.com/mhcybroot/doller-platform)
+- [portfolio_mahmudulhasan](https://github.com/mhcybroot/portfolio_mahmudulhasan)
+- [CRUD_App_Ostad](https://github.com/mhcybroot/CRUD_App_Ostad)
+- [module_10_live_test](https://github.com/mhcybroot/module_10_live_test)
+- [module_10_assignment](https://github.com/mhcybroot/module_10_assignment)
+- [module_5_live_test](https://github.com/mhcybroot/module_5_live_test)
+- [student_management_system_assignment](https://github.com/mhcybroot/student_management_system_assignment)
 
-### 🎨 HTML / Landing Pages & Portfolios (9 repos)
-| Repository | Description |
-|-----------|-------------|
-| [IT-Executive-CV](https://github.com/mhcybroot/IT-Executive-CV) | IT Executive Resume |
-| [cyber-web-practical](https://github.com/mhcybroot/cyber-web-practical) | Cybersecurity Website |
-| [myfolio](https://github.com/mhcybroot/myfolio) | Developer Portfolio Template |
+### JavaScript / Web Development (7 repos)
+- [quickbooks](https://github.com/mhcybroot/quickbooks)
+- [class-room](https://github.com/mhcybroot/class-room)
+- [Homesync](https://github.com/mhcybroot/Homesync)
+- [skylink-website-](https://github.com/mhcybroot/skylink-website-)
+- [woodhouse-grill-banani](https://github.com/mhcybroot/woodhouse-grill-banani)
+- [monarch-asset-management-llc](https://github.com/mhcybroot/monarch-asset-management-llc)
+- [ashford-solution-llc](https://github.com/mhcybroot/ashford-solution-llc)
 
-### 🐍 Python / FastAPI Projects (2 repos)
-| Repository | Description |
-|-----------|-------------|
-| [fastApiProject](https://github.com/mhcybroot/fastApiProject) | FastAPI Backend Project |
-| [CalculatorUsingFletPython](https://github.com/mhcybroot/CalculatorUsingFletPython) | Calculator App |
+### HTML / Landing Pages & Portfolios (9 repos)
+- [Skylink-custom-backend](https://github.com/mhcybroot/Skylink-custom-backend)
+- [cyber-web-practical](https://github.com/mhcybroot/cyber-web-practical)
+- [Result-Management-System](https://github.com/mhcybroot/Result-Management-System)
+- [IT-Executive-CV](https://github.com/mhcybroot/IT-Executive-CV)
+- [kazi-mazid-profile](https://github.com/mhcybroot/kazi-mazid-profile)
+- [orchid](https://github.com/mhcybroot/orchid)
+- [me.mahmudulHasan](https://github.com/mhcybroot/me.mahmudulHasan)
+- [MahmudulHasan](https://github.com/mhcybroot/MahmudulHasan)
+- [bspi_notice_board](https://github.com/mhcybroot/bspi_notice_board)
 
-### 📚 Resources & Tools
-| Repository | Description |
-|-----------|-------------|
-| [free-llm-api-resources](https://github.com/mhcybroot/free-llm-api-resources) | 📌 Curated List of Free LLM APIs |
-| [project-based-learning](https://github.com/mhcybroot/project-based-learning) | Project-Based Learning Resources |
-| [Free-Certifications](https://github.com/mhcybroot/Free-Certifications) | Free Courses & Certifications |
-| [Burp-Suite-Pro](https://github.com/mhcybroot/Burp-Suite-Pro) | Burp Suite Automation Script |
+### Python / FastAPI Projects (2 repos)
+- [CalculatorUsingFletPython](https://github.com/mhcybroot/CalculatorUsingFletPython)
+- [fastApiProject](https://github.com/mhcybroot/fastApiProject)
+
+### Other / Resources & Tools (28 repos)
+- [mhcybroot](https://github.com/mhcybroot/mhcybroot)
+- [free-llm-api-resources](https://github.com/mhcybroot/free-llm-api-resources) — A list of free LLM inference resources accessible via API.
+- [astro-platform-starte](https://github.com/mhcybroot/astro-platform-starte)
+- [PersonalFinanceTracker](https://github.com/mhcybroot/PersonalFinanceTracker)
+- [Project_8_on_Text_File_Reader](https://github.com/mhcybroot/Project_8_on_Text_File_Reader)
+- [VocationalEducationProject](https://github.com/mhcybroot/VocationalEducationProject)
+- [astrovim_config](https://github.com/mhcybroot/astrovim_config)
+- [Web-Development-Project-28566](https://github.com/mhcybroot/Web-Development-Project-28566)
+- [todo-react-copy](https://github.com/mhcybroot/todo-react-copy) — Sample todo app built with the React/ReactDOM framework.
+- [project-based-learning](https://github.com/mhcybroot/project-based-learning) — Curated list of project-based tutorials
+- [Job-App](https://github.com/mhcybroot/Job-App)
+- [Free-Certifications](https://github.com/mhcybroot/Free-Certifications) — A curated list of free courses & certifications.
+- [Burp-Suite-Pro](https://github.com/mhcybroot/Burp-Suite-Pro) — A bash and powershell script to download the latest version of Burp-Suite Professional and use it for free.
+- [social-media-app](https://github.com/mhcybroot/social-media-app) — Social media app but with new features like translate messages and posts , support video & images as posts  , chat and  notifications , etc... 
+- [studician-android-client](https://github.com/mhcybroot/studician-android-client) — Android client of Studician.
+- [myfolio](https://github.com/mhcybroot/myfolio) — 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
+- [SSCustomEditTextOutLineBorder](https://github.com/mhcybroot/SSCustomEditTextOutLineBorder) — Same as the Outlined text fields presented on the Material Design page but with some dynamic changes. 📝 🎉
+- [GroupChatApp](https://github.com/mhcybroot/GroupChatApp) — Developed a Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other.
+- [group_chatapp_flutter_firebase](https://github.com/mhcybroot/group_chatapp_flutter_firebase) — Chat app in Flutter Firebase with Group Based Functionalities (Email/Password Auth)
+- [Attendance-app](https://github.com/mhcybroot/Attendance-app) — An attendance app that can be used to take  attendance based on facial recognition and geolocation based authentications.
+- ... and 8 more
 
 ---
 
@@ -159,3 +190,5 @@ Web Dev:        JavaScript • TypeScript • HTML/CSS • React • Astro • L
 ⭐ **Open to Opportunities:** IT Infrastructure • Cybersecurity • Backend Development • Mobile Apps • Full-Stack Engineering ⭐
 
 </div>
+
+<!-- Auto-updated: 2026-05-16 09:59:43 -->
